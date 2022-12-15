@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I’m currently studing in a university 
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning c and html
 - 🔭 I’m currently working on meta ads
 - 🤔 I’m looking for help with front end delelopment
 - 📫 How to reach me: https://www.instagram.com/i_aaz__/
