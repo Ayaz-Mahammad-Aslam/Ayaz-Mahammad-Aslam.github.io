@@ -1,12 +1,3 @@
-### Hi there 👋
-
-- I’m currently studing in a university 
-- I’m currently learning c and html
-- I’m currently working on meta ads
-- I’m looking for help with front end delelopment
-- How to reach me: https://www.instagram.com/i_aaz__/
-- Fun fact: I'm a sports enthusiast
-- achivements: https://www.linkedin.com/posts/ayaz-mahammad-aslam-5a7689268_1000-free-courses-with-free-certificates-activity-7037067637050241025-6nx_?utm_source=share&utm_medium=member_desktop
 <!--
 **Ayaz-Mahammad-Aslam/Ayaz-Mahammad-Aslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
